@@ -1,0 +1,5 @@
+package bht.salvinto.spring5jokesapp.services;
+
+public interface JokeService {
+    String getJoke();
+}
